@@ -1,3 +1,8 @@
+<img width="1254" alt="image" src="https://github.com/rawataman101/azure-ai-assistant/assets/42992769/12ea3754-2f29-4dfa-8075-481f5e425d53">
+
+<img width="1244" alt="image" src="https://github.com/rawataman101/azure-ai-assistant/assets/42992769/13057f59-0aac-412b-ab1c-0b82b3bc817e">
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
